@@ -10,7 +10,7 @@ import { GeoFirestore } from "../Libs/firebase";
 
 export default function App2() {
   const { isLoaded } = useLoadScript({
-    googleMapsApiKey: "AIzaSyAlFkElS2AMnkaZ3aox6g0r5l7SLadMFSk",
+    googleMapsApiKey: "****************************",
     // libraries:["places"]
   });
 

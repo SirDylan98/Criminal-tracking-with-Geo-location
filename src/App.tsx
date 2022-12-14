@@ -7,8 +7,8 @@ import Mapagents from "./Components/mapagents";
 
 export default function App() {
   const { isLoaded } = useLoadScript({
-    //googleMapsApiKey: "AIzaSyAQdXISgI97M6Yfb68wAaO_gRaVM4rIb3Q",
-    googleMapsApiKey:"AIzaSyAlFkElS2AMnkaZ3aox6g0r5l7SLadMFSk"
+   
+    googleMapsApiKey:"***************************************"
     // libraries:["places"]
   });
 
